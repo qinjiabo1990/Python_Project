@@ -1,2 +1,2 @@
-# Python_Assignments
-This is my Python projects during my study at UQ
+# Python_Project
+These are my Python projects during my study at UQ
